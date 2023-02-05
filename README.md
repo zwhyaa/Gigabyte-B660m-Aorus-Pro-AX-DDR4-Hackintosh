@@ -3,7 +3,7 @@
 - Bootloader: OpenCore0.8.8
 
 
-<details><summary>Hardware</summary>
+<details><summary>Main Hardware</summary>
 <p>
  
 | Type | Item |
