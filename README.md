@@ -22,16 +22,26 @@
 - [x] FileVault 2
 - [x] BootCamp
 - [x] DRM
-# BIOS Configuration （F21.Version)
-Disabled
+# BIOS(F21.Version)
+<details><summary>Disabled</summary>
+<p>
+
  - Fast Boot
  - CSM
  - Intel Platform Trust
  - CFG Lock
  - Secure Boot
  - Serial Port
-Enable
+
+</p>
+</details>
+
+<details><summary>Enable</summary>
+<p>
  - Above 4G Decoding
  - VT-d
  - Hyper-Threading
  - XHCI Hand-off
+
+</p>
+</details>
