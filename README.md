@@ -22,3 +22,16 @@
 - [x] FileVault 2
 - [x] BootCamp
 - [x] DRM
+# BIOS Configuration
+Disabled
+ - Fast Boot
+ - CSM
+ - Intel Platform Trust
+ - CFG Lock
+ - Secure Boot
+ - Serial Port
+Enable
+ - Above 4G Decoding
+ - VT-d
+ - Hyper-Threading
+ - XHCI Hand-off
