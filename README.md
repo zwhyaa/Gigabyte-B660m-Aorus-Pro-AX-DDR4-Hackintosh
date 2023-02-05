@@ -1,9 +1,7 @@
 # Hackintosh!![apple-1839363_1280](https://user-images.githubusercontent.com/70508685/216809890-c534e697-503d-49a0-9beb-f20bdd05e075.jpg)
 
-
 - [macOS: Ventura 13.2](https://www.apple.com/macos/ventura/)
 - Bootloader: [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)(Rev.0.8.8)
-
 
 <details><summary>Main Hardware</summary>
 <p>
@@ -51,6 +49,7 @@
 
 </p>
 </details>
+
 
 <details><summary>Enable</summary>
 <p>
