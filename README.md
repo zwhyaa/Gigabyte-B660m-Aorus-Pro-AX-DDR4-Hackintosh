@@ -16,6 +16,7 @@
  
 </p>
 </details>
+
 # Current Status
 - [x] CPU
 - [x] Sleep/Wake
