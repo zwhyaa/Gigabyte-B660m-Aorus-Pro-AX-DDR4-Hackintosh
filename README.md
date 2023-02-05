@@ -22,7 +22,7 @@
 - [x] FileVault 2
 - [x] BootCamp
 - [x] DRM
-# BIOS Configuration
+# BIOS Configuration （Version 
 Disabled
  - Fast Boot
  - CSM
