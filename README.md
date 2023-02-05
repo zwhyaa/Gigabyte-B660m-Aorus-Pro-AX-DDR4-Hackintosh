@@ -18,7 +18,7 @@
 </p>
 </details>
 
-# Current Status
+# Complete
 - [x] CPU
 - [x] Sleep/Wake
 - [x] Wi-Fi&Bluetooth
