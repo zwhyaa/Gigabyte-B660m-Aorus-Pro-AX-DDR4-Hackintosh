@@ -3,7 +3,7 @@
 - Bootloader: OpenCore0.8.8
 
 
-# <details><summary>Hardware</summary>
+<details><summary>Hardware</summary>
 <p>
  
 | Type | Item |
@@ -30,7 +30,7 @@
 - [x] BootCamp
 - [x] DRM
 # BIOS(F21.Version)
-## <details><summary>Disabled</summary>
+<details><summary>Disabled</summary>
 <p>
 
  - Fast Boot
@@ -43,7 +43,7 @@
 </p>
 </details>
 
-## <details><summary>Enable</summary>
+<details><summary>Enable</summary>
 <p>
  
  - Above 4G Decoding
