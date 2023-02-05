@@ -29,6 +29,8 @@
 - [x] FileVault 2
 - [x] BootCamp
 - [x] DRM
+- [x] USB
+
 # BIOS(F21.Version)
 <details><summary>Disabled</summary>
 <p>
