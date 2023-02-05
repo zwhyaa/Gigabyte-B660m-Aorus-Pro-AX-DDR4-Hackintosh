@@ -38,6 +38,7 @@
 
 <details><summary>Enable</summary>
 <p>
+ 
  - Above 4G Decoding
  - VT-d
  - Hyper-Threading
