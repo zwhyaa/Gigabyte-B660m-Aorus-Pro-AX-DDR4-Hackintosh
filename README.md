@@ -36,7 +36,7 @@
  - DisableloMaper: Disable
  <img width="392" alt="iShot_2023-02-05_21 51 28" src="https://user-images.githubusercontent.com/70508685/216823413-8422c5b6-0b74-4417-86f1-84acb80ada06.png">
 
-# BIOS(F21.Version)
+# BIOS(F7.Version)
 <details><summary>Disabled</summary>
 <p>
 
